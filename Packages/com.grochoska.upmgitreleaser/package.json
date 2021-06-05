@@ -1,0 +1,10 @@
+{
+  "name": "com.grochoska.upmgitreleaser",
+  "version": "0.1.0",
+  "displayName": "Grochoska: UPM Git Releaser",
+  "description": "GIT UPM Releaser.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Grochoska"
+  }
+}
