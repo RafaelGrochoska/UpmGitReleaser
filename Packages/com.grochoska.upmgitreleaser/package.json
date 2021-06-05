@@ -1,6 +1,6 @@
 {
   "name": "com.grochoska.upmgitreleaser",
-  "version": "0.1.0",
+  "version": "1.0.0-beta.1",
   "displayName": "Grochoska: UPM Git Releaser",
   "description": "GIT UPM Releaser.",
   "unity": "2020.3",
